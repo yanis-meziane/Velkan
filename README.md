@@ -7,24 +7,24 @@
 
 ## Technologie utilisée 
 
-     * C#
-     *  VisualStudio Code 
+* C#
+*  VisualStudio Code 
 
 ## Compétences acquises 
 
-    * La modularité 
-    * Les méthodes 
-    * L'héritage 
-    * Les boucles 
+* La modularité 
+* Les méthodes 
+* L'héritage 
+* Les boucles 
 
 
  ## Lancement du jeu 
 
-     Sur le Terminal : 
+Sur le Terminal : 
 
-          ```
-                dotnet run
-          ```
+    ```
+        dotnet run
+    ```
 
 
 
